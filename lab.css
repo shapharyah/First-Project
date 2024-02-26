@@ -1,0 +1,47 @@
+hr {
+    height: 3px;
+    background-color: black;
+}
+
+#superman {
+    height: 400px;
+}
+
+body {
+    background-color: black;
+    color: aqua;
+}
+
+.funny {
+    color: blue;
+    text-decoration: none;
+    background-color: beige;
+}
+
+.funny:hover {
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+section img {
+    
+    width: 700px;
+    height: 400px;
+}
+
+section {
+    text-align: center;
+}
+
+#super {
+    height: 500px;
+    width: 400px;
+}
+
+ul {
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
